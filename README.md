@@ -65,7 +65,7 @@
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-- Click [here](https://leslieaine.github.io/barbershop) to see the live demo of the project.
+- Click [here](https://leslieaine.github.io/Barbershop) to see the live demo of the project.
 
 
 ## 👥 Authors <a name="authors"></a>
